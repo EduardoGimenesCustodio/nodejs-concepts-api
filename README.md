@@ -1,3 +1,3 @@
 ## Description
 
-Project developed during the study of an Ignite trail. It consists of an API that performs CRUD of users, exploring technical concepts.
+Project developed during the study of the Ignite Node.js Trail. It consists of an API that performs CRUD of users, exploring technical concepts.
